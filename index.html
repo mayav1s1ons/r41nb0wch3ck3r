@@ -1,14 +1,14 @@
 <canvas id="myCanvas" style="width:1800px; height:1110px;"></canvas>
 
-<!-- import the latest version of hydra synth-->
+
 <script src="https://unpkg.com/hydra-synth"></script>
 <script>
-  // create a new hydra-synth instance
+
   new window.Hydra({
     canvas: document.getElementById("myCanvas"),
     detectAudio: false
   })
-  // run some hydra code!
+
   osc(88.149,0.104,1.68)
   	.rotate(16.25,()=>Math.sin(time/153.551))
   	.pixelate(20,20)
