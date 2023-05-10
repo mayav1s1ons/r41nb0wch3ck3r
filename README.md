@@ -1,2 +1,3 @@
 # r41nb0wch3ck3r
-◕ ◞ ◕ This project was made using https://netnet.studio
+
+see this piece at: https://mayav1s1ons.github.io/r41nb0wch3ck3r/
